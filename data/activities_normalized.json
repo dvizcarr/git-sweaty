@@ -17301,5 +17301,57 @@
     "start_date_local": "2026-04-30T14:53:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 1628.0,
+    "elevation_gain": 26.0,
+    "id": "18337163934",
+    "moving_time": 470.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T10:52:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 4250.8,
+    "elevation_gain": 43.0,
+    "id": "18339748881",
+    "moving_time": 1136.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T18:32:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 10033.0,
+    "elevation_gain": 2.0,
+    "id": "18339749002",
+    "moving_time": 1940.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T19:31:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 2424.2,
+    "elevation_gain": 10.0,
+    "id": "18339749082",
+    "moving_time": 821.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T20:20:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
