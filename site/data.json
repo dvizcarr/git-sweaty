@@ -12356,6 +12356,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19370658107",
       "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19397027358",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19397027828",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -23213,11 +23231,21 @@
           "distance": 10726.6,
           "elevation_gain": 37.0,
           "moving_time": 3711.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19397027358",
+            "19397027828"
+          ],
+          "count": 2,
+          "distance": 11273.0,
+          "elevation_gain": 122.0,
+          "moving_time": 3254.0
         }
       }
     }
   },
-  "generated_at": "2026-07-20T15:34:41.644987+00:00",
+  "generated_at": "2026-07-21T15:31:12.807052+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42090665",
   "repo": "dvizcarr/git-sweaty",
