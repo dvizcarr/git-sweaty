@@ -12554,6 +12554,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19698710351",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19719784021",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -23601,11 +23610,20 @@
           "distance": 12887.7,
           "elevation_gain": 151.0,
           "moving_time": 3647.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19719784021"
+          ],
+          "count": 1,
+          "distance": 16833.2,
+          "elevation_gain": 57.0,
+          "moving_time": 4255.0
         }
       }
     }
   },
-  "generated_at": "2026-08-12T15:18:38.967150+00:00",
+  "generated_at": "2026-08-13T15:19:12.963375+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42090665",
   "repo": "dvizcarr/git-sweaty",
