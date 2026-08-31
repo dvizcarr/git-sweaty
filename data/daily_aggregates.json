@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:02:28.529052+00:00",
+  "generated_at": "2026-08-31T15:02:36.309251+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -11198,6 +11198,24 @@
           "distance": 12891.0,
           "elevation_gain": 100.0,
           "moving_time": 3376.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19966532632"
+          ],
+          "count": 1,
+          "distance": 8078.2,
+          "elevation_gain": 146.0,
+          "moving_time": 2350.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19971241707"
+          ],
+          "count": 1,
+          "distance": 8061.0,
+          "elevation_gain": 87.0,
+          "moving_time": 2395.0
         }
       }
     }
