@@ -18419,5 +18419,18 @@
     "start_date_local": "2026-09-02T19:41:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 6471.9,
+    "elevation_gain": 0.0,
+    "id": "20153195363",
+    "moving_time": 2032.0,
+    "name": "Peloton - 33 min Entertainment Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T23:52:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
