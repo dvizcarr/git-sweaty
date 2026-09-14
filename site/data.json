@@ -12761,6 +12761,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20153195363",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 20,
+      "name": "Peloton - 47 min Entertainment Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20165865940",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24015,11 +24024,20 @@
           "distance": 6471.9,
           "elevation_gain": 0.0,
           "moving_time": 2032.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20165865940"
+          ],
+          "count": 1,
+          "distance": 9671.8,
+          "elevation_gain": 0.0,
+          "moving_time": 2845.0
         }
       }
     }
   },
-  "generated_at": "2026-09-13T17:46:32.015083+00:00",
+  "generated_at": "2026-09-14T19:40:31.390945+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42090665",
   "repo": "dvizcarr/git-sweaty",
