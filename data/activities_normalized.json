@@ -18471,5 +18471,31 @@
     "start_date_local": "2026-09-15T18:36:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 12894.0,
+    "elevation_gain": 0.0,
+    "id": "20222158342",
+    "moving_time": 3787.0,
+    "name": "Peloton - 63 min Entertainment Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T20:24:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 9662.9,
+    "elevation_gain": 0.0,
+    "id": "20222158853",
+    "moving_time": 2868.0,
+    "name": "Peloton - 47 min Entertainment Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-17T19:15:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
